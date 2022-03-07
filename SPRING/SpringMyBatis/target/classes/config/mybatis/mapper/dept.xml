@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dept">	<!-- SQL문들을 table마다 구분할 수 있는 이름 공간 -->
+
+	<!-- SQL문들을 작성하는 부분 -->
+
+	<select id="list" resultType="vo.DeptVO">
+		select * from dept
+	</select>
+	
+	<select id="selectOne" resultType="vo.DeptVO" parameterType="int">
+		select * from dept where deptno = #{deptno}
+	</select>
+	
+	<insert id="insert" parameterType="vo.DeptVO">
+		insert into dept values(#{deptno},#{dname},#{loc})
+	</insert>
+	
+	<select id="maxNo" resultType="int">
+		select max(deptno) from dept
+	</select> <!-- 시퀀스값 -->
+	
+	<delete id="delete" parameterType="int">
+		delete dept where deptno = #{deptno}
+	</delete>
+	
+	<update id="update" parameterType="vo.DeptVO">
+		update dept set dname=${dname}, loc=#{loc} where deptno = #{deptno}
+	</update>
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+

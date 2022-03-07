@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\other">
       <UniqueIdentifier>{b557306c-1b93-4d93-8aeb-27608f8645bc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조">
+      <UniqueIdentifier>{33b92e71-018e-42af-8fbd-3eea652c7ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\고급C">
+      <UniqueIdentifier>{0b270cb7-2cac-423e-9d70-df1296094242}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="y_274.c">
@@ -53,6 +59,63 @@
     </ClCompile>
     <ClCompile Include="dp01.cpp">
       <Filter>소스 파일\inflearn</Filter>
+    </ClCompile>
+    <ClCompile Include="dp02.cpp">
+      <Filter>소스 파일\inflearn</Filter>
+    </ClCompile>
+    <ClCompile Include="p01.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p02.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p03.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p04.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p05.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p06.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p0.7.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="p08.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-4.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-5.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-6.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-7.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-8.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-9.c">
+      <Filter>소스 파일\고급C</Filter>
+    </ClCompile>
+    <ClCompile Include="9-10%28유클리드알고리즘%29.c">
+      <Filter>소스 파일\고급C</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

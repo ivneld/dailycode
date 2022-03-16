@@ -1,0 +1,7 @@
+﻿  10-6.c
+C:\git_Practice\C\Project1\Project1\10-6.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\git_Practice\C\Project1\Project1\10-6.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\git_Practice\C\Project1\Project1\10-6.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\git_Practice\C\Project1\Project1\10-6.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\git_Practice\C\Project1\Project1\10-6.c(31,1): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  Project1.vcxproj -> C:\git_Practice\C\Project1\Debug\practice.exe

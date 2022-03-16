@@ -25,8 +25,11 @@
     <Filter Include="소스 파일\자료구조">
       <UniqueIdentifier>{33b92e71-018e-42af-8fbd-3eea652c7ae0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\고급C">
+    <Filter Include="소스 파일\고급C 실습">
       <UniqueIdentifier>{0b270cb7-2cac-423e-9d70-df1296094242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\고급C 과">
+      <UniqueIdentifier>{5580e432-2a4d-49e7-bf6e-fd9d0ba5f19a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -88,34 +91,109 @@
       <Filter>소스 파일\자료구조</Filter>
     </ClCompile>
     <ClCompile Include="9-1.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-2.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-3.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-4.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-5.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-6.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-7.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-8.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-9.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
     <ClCompile Include="9-10%28유클리드알고리즘%29.c">
-      <Filter>소스 파일\고급C</Filter>
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="실습02.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="실습03.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="실습03-2.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="9-11.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="9-12.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="9-13.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="9-14.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="9-15.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1-1.c">
+      <Filter>소스 파일\고급C 과</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1-2.c">
+      <Filter>소스 파일\고급C 과</Filter>
+    </ClCompile>
+    <ClCompile Include="9.2-1.c">
+      <Filter>소스 파일\고급C 과</Filter>
+    </ClCompile>
+    <ClCompile Include="9.3.c">
+      <Filter>소스 파일\고급C 과</Filter>
+    </ClCompile>
+    <ClCompile Include="9.4.c">
+      <Filter>소스 파일\고급C 과</Filter>
+    </ClCompile>
+    <ClCompile Include="LCS.cpp">
+      <Filter>소스 파일\inflearn</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일\inflearn</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀연습.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="hanoi.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayMaxMin%28연습문제%29.c">
+      <Filter>소스 파일\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="10-1.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="10-2.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="10-3.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="10-4.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="10-5.c">
+      <Filter>소스 파일\고급C 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="10-6.c">
+      <Filter>소스 파일\고급C 실습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
